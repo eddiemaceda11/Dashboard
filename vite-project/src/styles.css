@@ -10,3 +10,9 @@
   body {
     background-color: #eff3f9;
   }
+
+  .App {
+    font-family: sans-serif;
+    text-align: center;
+    position: relative;
+  }
